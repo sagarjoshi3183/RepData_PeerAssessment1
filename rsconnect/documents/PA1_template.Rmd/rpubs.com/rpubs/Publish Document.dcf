@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/154727/8c6d0f10ce2a49e29f91b2ed66eae9a5
+url: http://rpubs.com/sagarjoshi3183/154727
+when: 1456126472.03982
