@@ -22,7 +22,7 @@
     <meta name="viewport" content="width=1020">
     
     
-    <title>RepData_PeerAssessment1/PA1_template.Rmd at master · shelleygoel/RepData_PeerAssessment1 · GitHub</title>
+    <title>RepData_PeerAssessment1/PA1_template.md at master · shelleygoel/RepData_PeerAssessment1 · GitHub</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -54,7 +54,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="75E159ED:5F9B:AF75BB7:56EF943D" name="octolytics-dimension-request_id" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="75E159ED:7CDD:81E59BE:56EF9454" name="octolytics-dimension-request_id" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -67,7 +67,7 @@
     <meta name="user-login" content="">
 
         <meta name="expected-hostname" content="github.com">
-      <meta name="js-proxy-site-detection-payload" content="NDQ2NGU5ZThhOTFmYzlmN2JlNWY1ZTA5ZDUyNjdmZmQ1Zjk1NTZlOTE0MmRkNzRlOWU1ZGQ5NWU3MmU4NDAxNHx7InJlbW90ZV9hZGRyZXNzIjoiMTE3LjIyNS44OS4yMzciLCJyZXF1ZXN0X2lkIjoiNzVFMTU5RUQ6NUY5QjpBRjc1QkI3OjU2RUY5NDNEIn0=">
+      <meta name="js-proxy-site-detection-payload" content="NWVlYzAwZGUwMjkxMDJhOWM4YzI1OWQ1NWEwMjhmZjcxOWZkZTIwYjE0OWJjMzFjN2Q5ZTdhMmQxNjEwOGJlOHx7InJlbW90ZV9hZGRyZXNzIjoiMTE3LjIyNS44OS4yMzciLCJyZXF1ZXN0X2lkIjoiNzVFMTU5RUQ6N0NERDo4MUU1OUJFOjU2RUY5NDU0In0=">
 
       <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
       <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico">
@@ -85,7 +85,7 @@
   <link href="https://github.com/shelleygoel/RepData_PeerAssessment1/commits/master.atom" rel="alternate" title="Recent Commits to RepData_PeerAssessment1:master" type="application/atom+xml">
 
 
-      <link rel="canonical" href="https://github.com/shelleygoel/RepData_PeerAssessment1/blob/master/PA1_template.Rmd" data-pjax-transient>
+      <link rel="canonical" href="https://github.com/shelleygoel/RepData_PeerAssessment1/blob/master/PA1_template.md" data-pjax-transient>
   </head>
 
 
@@ -122,7 +122,7 @@
 
       <div class="site-header-actions">
             <a class="btn btn-primary site-header-actions-btn" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
-          <a class="btn site-header-actions-btn mr-2" href="/login?return_to=%2Fshelleygoel%2FRepData_PeerAssessment1%2Fblob%2Fmaster%2FPA1_template.Rmd" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+          <a class="btn site-header-actions-btn mr-2" href="/login?return_to=%2Fshelleygoel%2FRepData_PeerAssessment1%2Fblob%2Fmaster%2FPA1_template.md" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
       </div>
 
         <nav class="site-header-nav site-header-nav-secondary">
@@ -254,9 +254,9 @@
 
     
 
-<a href="/shelleygoel/RepData_PeerAssessment1/blob/f5cb917fd26b78f02d402b8c8731d8db098c3edf/PA1_template.Rmd" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/shelleygoel/RepData_PeerAssessment1/blob/f5cb917fd26b78f02d402b8c8731d8db098c3edf/PA1_template.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:fbae340780ad6b6376b1d15f85ebc9b1 -->
+<!-- blob contrib key: blob_contributors:v21:b22a7303471b8028428ab7be8ab4299d -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -298,7 +298,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/shelleygoel/RepData_PeerAssessment1/blob/master/PA1_template.Rmd"
+               href="/shelleygoel/RepData_PeerAssessment1/blob/master/PA1_template.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -335,11 +335,11 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/shelleygoel/RepData_PeerAssessment1"><span>RepData_PeerAssessment1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.Rmd</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/shelleygoel/RepData_PeerAssessment1"><span>RepData_PeerAssessment1</span></a></span></span><span class="separator">/</span><strong class="final-path">PA1_template.md</strong>
   </div>
 </div>
 
-<include-fragment class="commit-tease" src="/shelleygoel/RepData_PeerAssessment1/contributors/master/PA1_template.Rmd">
+<include-fragment class="commit-tease" src="/shelleygoel/RepData_PeerAssessment1/contributors/master/PA1_template.md">
   <div>
     Fetching contributors&hellip;
   </div>
@@ -354,9 +354,9 @@
   <div class="file-actions">
 
     <div class="btn-group">
-      <a href="/shelleygoel/RepData_PeerAssessment1/raw/master/PA1_template.Rmd" class="btn btn-sm " id="raw-url">Raw</a>
-        <a href="/shelleygoel/RepData_PeerAssessment1/blame/master/PA1_template.Rmd" class="btn btn-sm js-update-url-with-hash">Blame</a>
-      <a href="/shelleygoel/RepData_PeerAssessment1/commits/master/PA1_template.Rmd" class="btn btn-sm " rel="nofollow">History</a>
+      <a href="/shelleygoel/RepData_PeerAssessment1/raw/master/PA1_template.md" class="btn btn-sm " id="raw-url">Raw</a>
+        <a href="/shelleygoel/RepData_PeerAssessment1/blame/master/PA1_template.md" class="btn btn-sm js-update-url-with-hash">Blame</a>
+      <a href="/shelleygoel/RepData_PeerAssessment1/commits/master/PA1_template.md" class="btn btn-sm " rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -377,54 +377,15 @@
   </div>
 
   <div class="file-info">
-      127 lines (98 sloc)
+      142 lines (100 sloc)
       <span class="file-info-divider"></span>
-    4.55 KB
+    4.44 KB
   </div>
 </div>
 
   
   <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><table data-table-type="yaml-metadata">
-  <thead>
-  <tr>
-  <th>title</th>
-
-  <th>output</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>Reproducible Research: Peer Assessment 1</div></td>
-
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>html_document</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div><table>
-  <thead>
-  <tr>
-  <th>keep_md</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div>true</div></td>
-  </tr>
-  </tbody>
-</table></div></td>
-  </tr>
-  </tbody>
-</table></div></td>
-  </tr>
-  </tbody>
-</table>
-
-<div class="highlight highlight-source-r"><pre><span class="pl-e">knitr</span><span class="pl-k">::</span><span class="pl-smi">opts_chunk</span><span class="pl-k">$</span>set(<span class="pl-v">echo</span> <span class="pl-k">=</span> <span class="pl-c1">TRUE</span>)</pre></div>
+    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-reproducible-research-peer-assessment-1" class="anchor" href="#reproducible-research-peer-assessment-1" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" role="img" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Reproducible Research: Peer Assessment 1</h1>
 
 <h3><a id="user-content-note-figures-are-in-pa1_template_filesfigure-html" class="anchor" href="#note-figures-are-in-pa1_template_filesfigure-html" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" role="img" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>NOTE: Figures are in "PA1_template_files/figure-html/"</h3>
 
@@ -437,12 +398,15 @@
 <div class="highlight highlight-source-r"><pre><span class="pl-smi">steps_per_day</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>[<span class="pl-k">!</span>is.na(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>)],<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">date</span>[<span class="pl-k">!</span>is.na(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>)],<span class="pl-v">FUN</span><span class="pl-k">=</span><span class="pl-smi">sum</span>)
 hist(<span class="pl-smi">steps_per_day</span>,<span class="pl-v">col</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>red<span class="pl-pds">"</span></span>,
      <span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Total number steps taken per day<span class="pl-pds">"</span></span>,
-     <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>steps per day<span class="pl-pds">"</span></span>)
-<span class="pl-smi">mean_steps</span> <span class="pl-k">&lt;-</span> mean(<span class="pl-smi">steps_per_day</span>[<span class="pl-k">!</span>is.na(<span class="pl-smi">steps_per_day</span>)])
+     <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>steps per day<span class="pl-pds">"</span></span>)</pre></div>
+
+<p><a href="/shelleygoel/RepData_PeerAssessment1/blob/master/PA1_template_files/figure-html/steps_per_day-1.png" target="_blank"><img src="/shelleygoel/RepData_PeerAssessment1/raw/master/PA1_template_files/figure-html/steps_per_day-1.png" alt="" style="max-width:100%;"></a></p>
+
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">mean_steps</span> <span class="pl-k">&lt;-</span> mean(<span class="pl-smi">steps_per_day</span>[<span class="pl-k">!</span>is.na(<span class="pl-smi">steps_per_day</span>)])
 <span class="pl-smi">median_steps</span> <span class="pl-k">&lt;-</span> median(<span class="pl-smi">steps_per_day</span>[<span class="pl-k">!</span>is.na(<span class="pl-smi">steps_per_day</span>)])</pre></div>
 
 <p>The mean and median of total number of steps taken per day are 
-<code>r as.integer(mean_steps)</code> and <code>r median_steps</code> respectively.</p>
+10766 and 10765 respectively.</p>
 
 <h2><a id="user-content-what-is-the-average-daily-activity-pattern" class="anchor" href="#what-is-the-average-daily-activity-pattern" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" role="img" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>What is the average daily activity pattern?</h2>
 
@@ -450,17 +414,19 @@ hist(<span class="pl-smi">steps_per_day</span>,<span class="pl-v">col</span><spa
 <span class="pl-smi">steps_per_interval</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>[<span class="pl-k">!</span>is.na(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>)],
                              <span class="pl-smi">intervals</span>,<span class="pl-smi">mean</span>)
 plot(levels(<span class="pl-smi">intervals</span>),<span class="pl-smi">steps_per_interval</span>,<span class="pl-v">type</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>l<span class="pl-pds">"</span></span>,<span class="pl-v">col</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>blue<span class="pl-pds">"</span></span>,
-     <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>interval<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>average steps<span class="pl-pds">"</span></span>,<span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Average Daily Activity<span class="pl-pds">"</span></span>)
+     <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>interval<span class="pl-pds">"</span></span>, <span class="pl-v">ylab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>average steps<span class="pl-pds">"</span></span>,<span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Average Daily Activity<span class="pl-pds">"</span></span>)</pre></div>
 
-<span class="pl-smi">max_activiy_interval</span> <span class="pl-k">&lt;-</span> names(which.max(<span class="pl-smi">steps_per_interval</span>))</pre></div>
+<p><a href="/shelleygoel/RepData_PeerAssessment1/blob/master/PA1_template_files/figure-html/steps_per_interval-1.png" target="_blank"><img src="/shelleygoel/RepData_PeerAssessment1/raw/master/PA1_template_files/figure-html/steps_per_interval-1.png" alt="" style="max-width:100%;"></a></p>
 
-<p>The interval <code>r max_activiy_interval</code> on average contains the maximum number of steps.</p>
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">max_activiy_interval</span> <span class="pl-k">&lt;-</span> names(which.max(<span class="pl-smi">steps_per_interval</span>))</pre></div>
+
+<p>The interval 835 on average contains the maximum number of steps.</p>
 
 <h2><a id="user-content-imputing-missing-values" class="anchor" href="#imputing-missing-values" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" role="img" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Imputing missing values</h2>
 
 <div class="highlight highlight-source-r"><pre><span class="pl-smi">num_missing</span> <span class="pl-k">&lt;-</span> sum(is.na(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>))</pre></div>
 
-<p>There are <code>r num_missing</code> missing values for steps in the activity data.</p>
+<p>There are 2304 missing values for steps in the activity data.</p>
 
 <p>We impute the missing values with the average number of steps for the corresponding interval and create a new data set names <code>complete_activity</code>.</p>
 
@@ -469,19 +435,21 @@ plot(levels(<span class="pl-smi">intervals</span>),<span class="pl-smi">steps_pe
 <span class="pl-smi">complete_activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>[is.na(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>)]  <span class="pl-k">&lt;-</span> sapply(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">interval</span>[is.na(<span class="pl-smi">activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>)], 
                                                         <span class="pl-k">function</span>(<span class="pl-smi">x</span>,<span class="pl-smi">steps_per_interval</span>)
                                                         <span class="pl-smi">steps_per_interval</span>[toString(<span class="pl-smi">x</span>)],
-                                                        <span class="pl-smi">steps_per_interval</span>)
-</pre></div>
+                                                        <span class="pl-smi">steps_per_interval</span>)</pre></div>
 
 <div class="highlight highlight-source-r"><pre><span class="pl-c"># Average number of steps per day</span>
 <span class="pl-smi">new_steps_per_day</span> <span class="pl-k">&lt;-</span> tapply(<span class="pl-smi">complete_activity</span><span class="pl-k">$</span><span class="pl-smi">steps</span>,<span class="pl-smi">complete_activity</span><span class="pl-k">$</span><span class="pl-smi">date</span>,<span class="pl-v">FUN</span><span class="pl-k">=</span><span class="pl-smi">sum</span>)
 hist(<span class="pl-smi">new_steps_per_day</span>,<span class="pl-v">col</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>red<span class="pl-pds">"</span></span>,
      <span class="pl-v">main</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>Total number steps taken per day for imputed data<span class="pl-pds">"</span></span>,
-     <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>steps per day<span class="pl-pds">"</span></span>)
-<span class="pl-smi">new_mean_steps</span> <span class="pl-k">&lt;-</span> mean(<span class="pl-smi">new_steps_per_day</span>)
+     <span class="pl-v">xlab</span><span class="pl-k">=</span><span class="pl-s"><span class="pl-pds">"</span>steps per day<span class="pl-pds">"</span></span>)</pre></div>
+
+<p><a href="/shelleygoel/RepData_PeerAssessment1/blob/master/PA1_template_files/figure-html/new_steps_per_day-1.png" target="_blank"><img src="/shelleygoel/RepData_PeerAssessment1/raw/master/PA1_template_files/figure-html/new_steps_per_day-1.png" alt="" style="max-width:100%;"></a></p>
+
+<div class="highlight highlight-source-r"><pre><span class="pl-smi">new_mean_steps</span> <span class="pl-k">&lt;-</span> mean(<span class="pl-smi">new_steps_per_day</span>)
 <span class="pl-smi">new_median_steps</span> <span class="pl-k">&lt;-</span> median(<span class="pl-smi">new_steps_per_day</span>)</pre></div>
 
 <p>The mean and median of total number of steps taken per day are 
-<code>r as.integer(new_mean_steps)</code> and <code>r as.integer(new_median_steps)</code> respectively. These values differ from 
+10766 and 10766 respectively. These values differ from 
 previously computed values from original data. Imputing missing values has improved the estimates for 
 total number of steps per day, as now mean and median coincide. </p>
 
@@ -524,8 +492,9 @@ xyplot(<span class="pl-smi">steps</span><span class="pl-k">~</span><span class="
      <span class="pl-v">type</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>l<span class="pl-pds">'</span></span>,
       <span class="pl-v">xlab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>Interval<span class="pl-pds">'</span></span>,
       <span class="pl-v">ylab</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span>Number of Steps<span class="pl-pds">'</span></span>,
-      <span class="pl-v">layout</span> <span class="pl-k">=</span> c(<span class="pl-c1">1</span>,<span class="pl-c1">2</span>))
-</pre></div>
+      <span class="pl-v">layout</span> <span class="pl-k">=</span> c(<span class="pl-c1">1</span>,<span class="pl-c1">2</span>))</pre></div>
+
+<p><a href="/shelleygoel/RepData_PeerAssessment1/blob/master/PA1_template_files/figure-html/weekday_weekend-1.png" target="_blank"><img src="/shelleygoel/RepData_PeerAssessment1/raw/master/PA1_template_files/figure-html/weekday_weekend-1.png" alt="" style="max-width:100%;"></a></p>
 
 <p>On Weekdays the person is equally active through the daytime, whereas on weekends there is high level of activity(maybe he/she excercises) in late morning and then it decreases sharply (maybe watching movies).</p>
 </article>
@@ -566,7 +535,7 @@ xyplot(<span class="pl-smi">steps</span><span class="pl-k">~</span><span class="
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" role="img" title="GitHub " version="1.1" viewBox="0 0 16 16" width="24"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59 0.4 0.07 0.55-0.17 0.55-0.38 0-0.19-0.01-0.82-0.01-1.49-2.01 0.37-2.53-0.49-2.69-0.94-0.09-0.23-0.48-0.94-0.82-1.13-0.28-0.15-0.68-0.52-0.01-0.53 0.63-0.01 1.08 0.58 1.23 0.82 0.72 1.21 1.87 0.87 2.33 0.66 0.07-0.52 0.28-0.87 0.51-1.07-1.78-0.2-3.64-0.89-3.64-3.95 0-0.87 0.31-1.59 0.82-2.15-0.08-0.2-0.36-1.02 0.08-2.12 0 0 0.67-0.21 2.2 0.82 0.64-0.18 1.32-0.27 2-0.27 0.68 0 1.36 0.09 2 0.27 1.53-1.04 2.2-0.82 2.2-0.82 0.44 1.1 0.16 1.92 0.08 2.12 0.51 0.56 0.82 1.27 0.82 2.15 0 3.07-1.87 3.75-3.65 3.95 0.29 0.25 0.54 0.73 0.54 1.48 0 1.07-0.01 1.93-0.01 2.2 0 0.21 0.15 0.46 0.55 0.38C13.71 14.53 16 11.53 16 8 16 3.58 12.42 0 8 0z"></path></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2016 <span title="0.05588s from github-fe136-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2016 <span title="0.05166s from github-fe147-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
